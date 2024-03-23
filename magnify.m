@@ -9,6 +9,7 @@ function magnify(f1)
 %  Hold 'Ctrl' while clicking to leave magnification on figure.
 
 % Rick Hindman - 7/29/04
+% Xianhua Zhang - 7/23/24
 
 if (nargin == 0), f1 = gcf; end;
 set(f1, ...
